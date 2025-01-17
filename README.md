@@ -6,5 +6,12 @@ Heute habe ich nur an M450 gearbeitet. Die Abgabe zu diesem Projekt ist am Monta
 
 # Arbeitspakete 17.1.25
 
-- [ ] An M295 arbeiten 
+- [x] An M295 arbeiten 
 - [ ] An M347 arbeiten
+
+Heute habe ich nur an Modul 295 gearbeitet. Am Mittwoch habe ich nicht alle Aufgaben gelöst und aus diesem Grund habe ich sie hier gemacht. An sich war es nicht anstrengend ich wollte etwas pushen und ich wusste die Commands dazu nicht also musste ich ständig nachsehen. Auch musste ich repositories erstellen und diese Klonen etc. Aber es hat Spass gemacht weil es nicht schwer war. Bei Fragen habe ich mich an Vincent gewendet weil er ziemlich alles weiss. Das nöchste Mal, werde ich sicher wider an Modul 295 arbeiten und vielleicht auch noch Modul 347. 
+
+# Arbeitspakete 17.1.25
+
+- [ ] An M295 arbeiten
+- [ ] An M347 arbeiten 
