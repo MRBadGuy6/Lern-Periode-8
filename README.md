@@ -13,5 +13,12 @@ Heute habe ich nur an Modul 295 gearbeitet. Am Mittwoch habe ich nicht alle Aufg
 
 # Arbeitspakete 17.1.25
 
-- [ ] An M295 arbeiten
-- [ ] An M347 arbeiten 
+- [x] An M295 arbeiten
+- [x] C# repetieren
+
+Heute habe ich an zwei Sachen gearbeitet. An Modul 295 und ich habe noch C# repetiert. Nun M295 war an sich keine grosse Sache da ich ein Paar Aufgaben nicht fertig lösen konnte. Was C# angeht... Ich habe das Gefühl das ich C# nicht verstehe also habe ich mich entschieden die Grundlagen zu repetieren und bis jetzt läuft es ziemlich gut. Nächstes Mal werde ich mich mit Objekten arbeiten da ich bei M320 das mulmige Gefühl hatte das ich nur Bahnhof verstehe. Vielleicht werde ich auch nochmal Java Script in angriff nehmen weil die Webseite von der ich lerne sehr hilfreich ist. 
+
+# Arbeitspakete 31.1.25
+
+- [ ] Mit Objekten programmieren repetieren
+- [ ] Java Skript repetieren 
