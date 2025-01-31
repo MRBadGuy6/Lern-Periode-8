@@ -20,5 +20,7 @@ Heute habe ich an zwei Sachen gearbeitet. An Modul 295 und ich habe noch C# repe
 
 # Arbeitspakete 31.1.25
 
-- [ ] Mit Objekten programmieren repetieren
-- [ ] Java Skript repetieren 
+- [x] Mit Objekten programmieren repetieren
+- [x] M347 repetieren 
+
+Heute habe ich C# weiter repetiert. An sich gab es keine Probleme. Ich muss das halt öfters machen den es kommt vor, dass ich alles vergesse. Was M347 angeht. Nun ich habe die übungsprüfung angefangen. Ich habe grosse Fortschritte gemacht aber ich bin nocht nicht ganz fertig. Es läuft, allerdigings hat es nicht Zugang zu bestimmten und ich arbeite immer noch daran dieses Problem zu behebn. Ich hoffe ich schaffe es ansonsten wird die LB emotional überlastet. 
